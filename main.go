@@ -10,3 +10,4 @@ import "github.com/alpkeskin/mosint/cmd"
 func main() {
 	cmd.Execute()
 }
+go mosint micas.cardiga@gmail.com 
